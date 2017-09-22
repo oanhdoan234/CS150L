@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ChildClass1
+comment1.params=
+comment1.target=ChildClass1()
+comment2.params=obj
+comment2.target=ChildClass1(ChildClass1)
+comment3.params=obj
+comment3.target=boolean\ equals(ChildClass1)
+numComments=4

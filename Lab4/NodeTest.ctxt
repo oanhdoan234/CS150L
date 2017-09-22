@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NodeTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testGetELement()
+comment4.params=
+comment4.target=void\ testSetElement()
+comment5.params=
+comment5.target=void\ testNext()
+comment6.params=
+comment6.target=void\ testSetNext()
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed
+comment2.target=java.lang.Long[]\ timeAddToFront(int,\ int)
+comment3.params=numberOfItems\ seed
+comment3.target=java.lang.Long[]\ timeAddToBack(int,\ int)
+comment4.params=numberOfItems\ seed
+comment4.target=java.lang.Long[]\ timeSortOfUnsortedList(int,\ int)
+comment5.params=numberOfItems\ seed
+comment5.target=java.lang.Long[]\ timeSortOfSortedList(int,\ int)
+comment6.params=numberOfItems\ seed\ findIt
+comment6.target=java.lang.Long[]\ timeLinearSearch(int,\ int,\ double)
+comment7.params=numberOfItems\ seed\ findIt
+comment7.target=java.lang.Long[]\ timeBinarySearch(int,\ int,\ double)
+numComments=8

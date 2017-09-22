@@ -1,0 +1,6 @@
+Yogurt,Activia,3.20,Chobani,e,Yoplait,2.4,StonyField,0.7
+Batteries,Duracell,2,Energizer,1.99
+Soda,Pepsi,0.99,Coke,1.25,Sprite,1.4
+Cookies,Oreo,3.56,Chips Ahoy,5.2,Nutter Butter,2.96,Grandma’s,4.1,Milano,3.1
+Handsoap,Dial,1.99,SoftSoap,1.78,Lysol,2.04,Meyer’s,1.5
+Meat,Chicken,1.5,Pork,2.21,Beef,6.5,Lamb,6
