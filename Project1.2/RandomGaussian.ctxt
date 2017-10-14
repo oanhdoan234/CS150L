@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RandomGaussian
+comment1.params=mean\ sd\ seed
+comment1.target=RandomGaussian(double,\ double,\ long)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=double\ getGaussian()
+comment4.params=
+comment4.target=double\ mean()
+comment5.params=
+comment5.target=double\ sd()
+comment6.params=
+comment6.target=long\ seed()
+comment7.params=r
+comment7.target=boolean\ compareTo(RandomGaussian)
+numComments=8

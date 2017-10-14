@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StationList
+comment1.params=distanceToStation
+comment1.target=StationList(RandomGaussian)
+comment2.params=s
+comment2.target=void\ add(Station)
+comment3.params=
+comment3.target=Station\ findNearestStation()
+comment4.params=
+comment4.target=double\ simulateOneStep()
+comment5.params=
+comment5.target=java.lang.String\ commandE()
+comment6.params=numbers
+comment6.target=int\ findMin(java.util.ArrayList)
+comment7.params=
+comment7.target=int\ numStations()
+numComments=8

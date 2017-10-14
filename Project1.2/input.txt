@@ -1,0 +1,11 @@
+numberTesla 100
+numberChargingStation 30
+numberChargingPoints 1
+averageSpeed 2
+mileagePerUnitBattery 2
+batteryThreshold 4
+chargeTime 2
+batteryCapacity 10
+distanceToChargingStation 4 2
+tripDistance 10 2
+tripInterval 8 2

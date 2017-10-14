@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StationListTest
+comment0.text=\n\ The\ test\ class\ StationListTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ tearDown()
+comment1.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ testAdd()
+comment3.params=
+comment3.target=void\ testFindMin1()
+comment4.params=
+comment4.target=void\ testFindMin2()
+comment5.params=
+comment5.target=void\ testSimulateOneStep1()
+comment6.params=
+comment6.target=void\ testSimulateOneStep2()
+numComments=7

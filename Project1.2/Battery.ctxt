@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Battery
+comment1.params=distancePerUnit\ threshold\ chargeTimePerUnit\ maxCapacity
+comment1.target=Battery(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ decrease()
+comment3.params=
+comment3.target=void\ increase()
+comment4.params=
+comment4.target=boolean\ lowBattery()
+comment5.params=
+comment5.target=boolean\ fullBattery()
+comment6.params=
+comment6.target=double\ getBatteryLevel()
+comment7.params=
+comment7.target=double\ getDistancePerUnit()
+comment8.params=
+comment8.target=double\ distanceTillBatteryDepleted()
+numComments=9

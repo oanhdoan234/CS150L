@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Faculty
+comment1.params=firstName\ lastName\ phone\ email
+comment1.target=Faculty(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=obj
+comment2.target=int\ compareToFirstName(Faculty)
+comment3.params=obj
+comment3.target=int\ compareToLastName(Faculty)
+comment4.params=obj
+comment4.target=int\ compareTo(Faculty)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

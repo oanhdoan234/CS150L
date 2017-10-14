@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StationList
+comment1.params=
+comment1.target=StationList()
+comment2.params=
+comment2.target=void\ randomDistance()
+comment3.params=
+comment3.target=Station\ findNearestStation()
+numComments=4

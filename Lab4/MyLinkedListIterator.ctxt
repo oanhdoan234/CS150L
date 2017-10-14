@@ -1,7 +1,11 @@
 #BlueJ class context
 comment0.target=MyLinkedListIterator
-comment1.params=
-comment1.target=boolean\ hasNext()
+comment1.params=head\ tail
+comment1.target=MyLinkedListIterator(Node,\ Node)
 comment2.params=
-comment2.target=java.lang.Object\ next()
-numComments=3
+comment2.target=boolean\ hasNext()
+comment3.params=
+comment3.target=java.lang.Object\ next()
+comment4.params=
+comment4.target=Node\ nextNode()
+numComments=5

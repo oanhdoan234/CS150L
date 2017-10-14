@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ProgramInput
+comment1.params=dir
+comment1.target=ProgramInput(java.lang.String)
+comment2.params=start\ end
+comment2.target=java.util.ArrayList\ readInt(int,\ int)
+comment3.params=start\ end
+comment3.target=java.util.ArrayList\ readDouble(int,\ int)
+comment4.params=start\ seed
+comment4.target=java.util.ArrayList\ readRandomGaussian(int,\ long)
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=long\ timeQuickSortStudent(StudentList)
+comment3.params=list
+comment3.target=long\ timeSelectionSortStudent(StudentList)
+comment4.params=list
+comment4.target=long\ timeQuickSortFaculty(FacultyList)
+comment5.params=list
+comment5.target=long\ timeSelectionSortFaculty(FacultyList)
+numComments=6

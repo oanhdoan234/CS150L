@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CarList
+comment1.params=
+comment1.target=CarList()
+comment2.params=c
+comment2.target=void\ add(Car)
+comment3.params=c
+comment3.target=void\ remove(Car)
+comment4.params=
+comment4.target=void\ dequeue()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=idx
+comment6.target=Car\ getCar(int)
+numComments=7

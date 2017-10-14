@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChargingPoint
+comment1.params=
+comment1.target=ChargingPoint()
+comment2.params=c
+comment2.target=void\ enqueue(Car)
+comment3.params=
+comment3.target=void\ dequeue()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=idx
+comment5.target=Car\ getCar(int)
+numComments=6
