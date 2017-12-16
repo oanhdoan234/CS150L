@@ -1,0 +1,39 @@
+#BlueJ class context
+comment0.target=DirectedGraphTest
+comment1.params=
+comment1.target=DirectedGraphTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ DirectedGraphTest\n
+comment10.params=
+comment10.target=void\ testAddEdge5()
+comment10.text=2\ nodes\ connected\ in\ both\ directions
+comment11.params=
+comment11.target=void\ testGetNeighbor1()
+comment11.text=get\ neighbor\ of\ a\ single\ node\ \=>\ empty
+comment12.params=
+comment12.target=void\ testGetNeighbor2()
+comment12.text=get\ neighbors\ of\ a\ node\ connected\ with\ other\ nodes
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testAddNode1()
+comment4.text=add\ the\ same\ value\ twice\ \=>\ only\ 1\ success
+comment5.params=
+comment5.target=void\ testAddNode2()
+comment5.text=add\ multiple\ nodes
+comment6.params=
+comment6.target=void\ testAddEdge1()
+comment6.text=add\ an\ edge\ that\ connects\ two\ nonexisting\ values\ \=>\ no\ success
+comment7.params=
+comment7.target=void\ testAddEdge2()
+comment7.text=add\ an\ edge\ connects\ 2\ nodes
+comment8.params=
+comment8.target=void\ testAddEdge3()
+comment8.text=update\ weight\ of\ an\ existing\ edge
+comment9.params=
+comment9.target=void\ testAddEdge4()
+comment9.text=add\ multiple\ edges\ from\ a\ node
+numComments=13
