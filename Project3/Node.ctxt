@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=key
+comment1.target=Node(java.lang.Comparable)
+comment2.params=
+comment2.target=Node\ closest()
+comment2.text=find\ closest\ neighbor
+comment3.params=obj
+comment3.target=boolean\ equalsKey(Node)
+comment3.text=compare\ if\ 2\ nodes\ have\ same\ keys
+comment4.params=
+comment4.target=java.util.ArrayList\ getNeighbors()
+comment4.text=get\ all\ neighbors
+comment5.params=k\ w
+comment5.target=boolean\ containsEdge(java.lang.Comparable,\ int)
+comment5.text=check\ if\ this\ node\ is\ connected\ to\ an\ edge,\ given\ the\ edge's\ weight\ and\ value\ of\ end\ node
+comment6.params=
+comment6.target=java.lang.Comparable\ key()
+comment7.params=
+comment7.target=java.util.ArrayList\ getEdges()
+comment8.params=b
+comment8.target=void\ setVisit(boolean)
+comment9.params=
+comment9.target=boolean\ getVisit()
+numComments=10

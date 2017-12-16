@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GradeBook
+comment1.params=
+comment1.target=GradeBook()
+comment1.text=initiate\ an\ empty\ list
+comment2.params=e
+comment2.target=void\ addGrade(java.lang.Comparable)
+comment2.text=add\ a\ grade
+comment3.params=e
+comment3.target=boolean\ delete(java.lang.Comparable)
+comment3.text=delete\ first\ occurence\ of\ a\ grade\ if\ found
+comment4.params=e
+comment4.target=int\ find(java.lang.Comparable)
+comment4.text=find\ a\ grade\ using\ iterator
+comment5.params=
+comment5.target=void\ printGrades()
+comment5.text=print\ grades\ using\ iterator
+numComments=6

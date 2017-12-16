@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EventByType
+comment1.params=
+comment1.target=EventByType()
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=Add\ an\ event\ to\ the\ right\ node\ by\ comparing\ event's\ type\ with\ key\ word\ of\ node.\ If\ list\ does\ not\ have\ that\ type,\ create\ a\ new\ node
+comment3.params=name
+comment3.target=void\ remove(java.lang.String)
+comment3.text=\ Remove\ an\ event\ given\ its\ name\:\ go\ through\ each\ node\ to\ search\ for\ events\ of\ given\ name,\ remove\ the\ events\ before\ moving\ to\ the\ next\ node.\n\ At\ last,\ check\ if\ there\ are\ any\ empty\ nodes,\ remove\ those\ empty\ nodes\n
+comment4.params=type
+comment4.target=java.util.ArrayList\ find(java.lang.String)
+comment4.text=Find\ an\ event\ by\ its\ type
+comment5.params=
+comment5.target=int\ size()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AthleteComparator
+comment1.params=a\ b
+comment1.target=int\ compare(Athlete,\ Athlete)
+comment2.params=obj
+comment2.target=boolean\ equals(java.util.Comparator)
+comment3.params=a\ b
+comment3.target=int\ compareHeight(Athlete,\ Athlete)
+comment4.params=a\ b
+comment4.target=int\ compareBirth(Athlete,\ Athlete)
+comment5.params=a\ b
+comment5.target=int\ compareLastName(Athlete,\ Athlete)
+comment6.params=a\ b
+comment6.target=int\ compareSport(Athlete,\ Athlete)
+numComments=7

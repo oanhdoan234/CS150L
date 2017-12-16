@@ -1,0 +1,40 @@
+#BlueJ class context
+comment0.target=EventByOrganizationTest
+comment0.text=\n\ The\ test\ class\ EventByOrganizationTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=EventByOrganizationTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ EventByOrganizationTest\n
+comment10.params=
+comment10.target=void\ testRemove2()
+comment10.text=remove\ an\ event\ in\ a\ list\ having\ only\ 1\ element\ \=>\ remove\ the\ list\ itself\ after\ removing\ the\ event
+comment11.params=
+comment11.target=void\ testRemove3()
+comment11.text=remove\ an\ event\ in\ a\ list\ having\ at\ 2\ events
+comment12.params=
+comment12.target=void\ testRemove4()
+comment12.text=remove\ an\ event\ that\ has\ 2\ organizers
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testAdd1()
+comment4.text=add\ an\ event\ organized\ by\ 2\ organizations\ \=>\ container\ has\ 2\ nodes
+comment5.params=
+comment5.target=void\ testAdd2()
+comment5.text=add\ an\ event\ without\ info\ on\ organizations
+comment6.params=
+comment6.target=void\ testAdd3()
+comment6.text=add\ 2\ events\ that\ share\ organizer\ \=>\ the\ node\ of\ this\ organizer\ has\ 2\ events
+comment7.params=
+comment7.target=void\ testAdd4()
+comment7.text=add\ an\ event\ twice\ \=>\ only\ 1\ success
+comment8.params=
+comment8.target=void\ testFind()
+comment8.text=find\ an\ organizer\ not\ in\ list
+comment9.params=
+comment9.target=void\ testRemove1()
+comment9.text=remove\ an\ event\ not\ in\ list
+numComments=13

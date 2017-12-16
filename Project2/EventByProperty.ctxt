@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EventByProperty
+comment1.params=e
+comment1.target=void\ add(Event)
+comment2.params=name
+comment2.target=void\ remove(java.lang.String)
+comment3.params=parameter
+comment3.target=java.util.ArrayList\ find(java.lang.Object)
+numComments=4

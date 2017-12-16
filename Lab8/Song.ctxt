@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Song
+comment1.params=title\ artist\ year\ genre
+comment1.target=Song(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=obj
+comment2.target=int\ compareTo(Song)
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment6.params=
+comment6.target=java.lang.String\ getArtist()
+numComments=7

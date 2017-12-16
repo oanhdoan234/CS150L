@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EventByDate
+comment1.params=
+comment1.target=EventByDate()
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=add\ an\ event
+comment3.params=n
+comment3.target=void\ addNode(DateNode)
+comment3.text=add\ a\ node\ (representing\ a\ date)\ to\ list\ if\ the\ list\ does\ not\ have\ this\ date\ yet
+comment4.params=name
+comment4.target=void\ remove(java.lang.String)
+comment4.text=\ remove\ an\ event\ given\ event\ name\:\ Go\ through\ each\ node\ in\ list,\ find\ events\ of\ same\ name,\ remove\ these\ events\ before\ moving\ to\ the\ next\ \n\ node.\ At\ last,\ remove\ any\ empty\ nodes\n
+comment5.params=dateRange
+comment5.target=java.util.ArrayList\ find(java.util.ArrayList)
+comment5.text=find\ events\ within\ a\ range\ of\ dates
+comment6.params=date
+comment6.target=int\ contains(java.util.Date)
+comment6.text=find\ index\ of\ a\ particular\ date\ in\ list
+comment7.params=n
+comment7.target=int\ findPlaceToInsert(DateNode)
+comment7.text=find\ the\ place\ to\ insert\ a\ new\ date\ to\ keep\ the\ list\ sorted
+comment8.params=
+comment8.target=int\ size()
+comment9.params=pos
+comment9.target=DateNode\ get(int)
+numComments=10

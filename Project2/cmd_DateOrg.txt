@@ -1,0 +1,7 @@
+
+
+javac Experiment.java; java Experiment seed1 31/4/2008 31/4/2008 org_1968856120 
+
+javac Experiment.java; java Experiment seed2 12/6/1970 23/8/1970 org_2098502771 
+
+javac Experiment.java; java Experiment seed3 17/6/1985 9/10/1985 org_652077035

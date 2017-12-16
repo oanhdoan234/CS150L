@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EventByLocation
+comment1.params=
+comment1.target=EventByLocation()
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=\ Add\ an\ event\:\ Find\ the\ node\ whose\ key\ word\ (location)\ is\ the\ same\ as\ the\ location\ of\ the\ event.\ Check\ if\ this\ event\ is\ in\ the\ node.\ \n\ If\ not,\ add\ the\ event.\ If\ no\ matching\ location\ is\ found,\ add\ a\ new\ node.\ \n
+comment3.params=name
+comment3.target=void\ remove(java.lang.String)
+comment3.text=Remove\ an\ event\:\ Go\ to\ each\ node,\ find\ and\ remove\ events\ of\ same\ name.\ At\ last,\ remove\ all\ empty\ nodes
+comment4.params=location
+comment4.target=java.util.ArrayList\ find(java.lang.String)
+comment4.text=Find\ an\ event\ by\ its\ name
+comment5.params=
+comment5.target=int\ size()
+numComments=6

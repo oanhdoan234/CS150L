@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Experiment
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=engine\ d\ org
+comment10.target=long\ searchDateOrg(SearchEngine,\ java.util.ArrayList,\ java.lang.String)
+comment2.params=engine\ name
+comment2.target=long\ findByName(SearchEngine,\ java.lang.String)
+comment3.params=engine\ type
+comment3.target=long\ findByType(SearchEngine,\ java.lang.String)
+comment4.params=engine\ org
+comment4.target=long\ findByOrg(SearchEngine,\ java.lang.String)
+comment5.params=engine\ d
+comment5.target=long\ findByDate(SearchEngine,\ java.util.ArrayList)
+comment6.params=engine\ location
+comment6.target=long\ findByLocation(SearchEngine,\ java.lang.String)
+comment7.params=engine\ outf
+comment7.target=long\ write(SearchEngine,\ java.lang.String)
+comment8.params=engine\ name\ type
+comment8.target=long\ searchNameType(SearchEngine,\ java.lang.String,\ java.lang.String)
+comment9.params=engine\ type\ name
+comment9.target=long\ searchTypeName(SearchEngine,\ java.lang.String,\ java.lang.String)
+numComments=11

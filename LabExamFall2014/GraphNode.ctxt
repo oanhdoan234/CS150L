@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GraphNode
+comment1.params=n
+comment1.target=void\ addConnection(GraphNode)
+comment2.params=key
+comment2.target=GraphNode\ find(java.lang.Object)
+comment3.params=
+comment3.target=void\ reset()
+numComments=4

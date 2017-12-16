@@ -1,0 +1,7 @@
+
+
+javac Experiment.java; java Experiment seed1 name_1627380064 talk org_954999371 21/5/1992 31/9/1992 location_1869766754
+
+javac Experiment.java; java Experiment seed2 name_1004854176 talk org_1972169538 1/8/2001 28/9/2001 location_614538363
+
+javac Experiment.java; java Experiment seed3 name_1184124140 talk org_1591783413 4/12/1986 22/12/1986 location_2055791799

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BNode
+comment1.params=b
+comment1.target=BNode(MyBook)
+comment2.params=b\ prev\ next
+comment2.target=BNode(MyBook,\ BNode,\ BNode)
+comment3.params=n
+comment3.target=void\ setNext(BNode)
+comment3.text=set\ and\ get\ methods
+comment4.params=n
+comment4.target=void\ setPrev(BNode)
+comment5.params=
+comment5.target=BNode\ getNext()
+comment6.params=
+comment6.target=BNode\ getPrev()
+comment7.params=
+comment7.target=MyBook\ getMyBook()
+comment8.params=
+comment8.target=java.lang.String\ getAuthor()
+comment9.params=
+comment9.target=java.lang.String\ getTitle()
+numComments=10

@@ -1,0 +1,15 @@
+name: Lafayette Lehigh Swimming
+date: 11/18/2017
+location: Weinstein Natatorium
+type: athletics
+
+name: Regional Debate Competition
+date: 11/20/2017 11/24/2017
+location: Lancaster PA
+type: club
+
+date: 10/28/2017
+name: Lutron Programming Competition
+type: academic
+location: AEC 519
+

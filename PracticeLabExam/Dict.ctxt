@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dict
+comment1.params=
+comment1.target=Dict()
+comment2.params=key\ value
+comment2.target=void\ add(java.lang.String,\ java.lang.String)
+comment3.params=key
+comment3.target=java.util.ArrayList\ find(java.lang.String)
+comment3.text=a\ method\ find(String\ key)\ that\ searches\ through\ the\ Dict.\ If\ the\ key\ is\ found,\ it\ will\ return\ an\ ArrayList\ of\ the\ String\ values.\ \n\ The\ values\ are\ obtained\ by\ using\ an\ Iterator\ to\ traverse\ the\ TreeSet.\ Returns\ an\ empty\ ArrayList\ if\ there\ are\ no\ matches\ for\ the\ key.\n
+numComments=4

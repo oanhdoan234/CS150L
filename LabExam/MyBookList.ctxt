@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyBookList
+comment1.params=
+comment1.target=MyBookList()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=b
+comment3.target=void\ add(MyBook)
+comment3.text=Add\ a\ book\ to\ list
+comment4.params=author
+comment4.target=java.util.ArrayList\ find(java.lang.String)
+comment4.text=Find\ all\ books\ of\ the\ same\ author\ and\ add\ them\ to\ an\ array\ list
+comment5.params=
+comment5.target=MyBookListIterator\ iterator()
+comment5.text=create\ list\ iterator
+comment6.params=
+comment6.target=BNode\ getHead()
+numComments=7

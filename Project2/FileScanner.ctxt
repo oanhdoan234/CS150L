@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FileScanner
+comment1.params=filename
+comment1.target=SearchEngine\ createDB(java.lang.String)
+comment1.text=Read\ a\ text\ file\ to\ create\ a\ database\ of\ events\ and\ add\ them\ to\ a\ search\ engine\ for\ further\ actions
+numComments=2

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EventByName
+comment1.params=
+comment1.target=EventByName()
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=add\ an\ event\ -\ create\ a\ new\ mapping\ if\ the\ name\ of\ this\ event\ does\ not\ exist\ yet.\ Otherwise,\ add\ the\ event\ to\ the\ list\ of\ the\ same\ name
+comment3.params=name
+comment3.target=void\ remove(java.lang.String)
+comment3.text=Remove\ an\ event
+comment4.params=name
+comment4.target=java.util.ArrayList\ find(java.lang.String)
+comment4.text=Find\ an\ event\ by\ its\ name
+comment5.params=name
+comment5.target=java.util.ArrayList\ get(java.lang.String)
+comment6.params=
+comment6.target=int\ size()
+comment7.params=outfile
+comment7.target=void\ write(java.lang.String)
+comment7.text=write\ data\ to\ a\ file
+numComments=8

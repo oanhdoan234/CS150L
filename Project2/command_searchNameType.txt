@@ -1,0 +1,7 @@
+
+
+javac Experiment.java; java Experiment seed1 name_1772861199 talk 
+
+javac Experiment.java; java Experiment seed2 name_1770889470 talk 
+
+javac Experiment.java; java Experiment seed3 name_668513120 talk 

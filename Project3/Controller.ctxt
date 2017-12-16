@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ Write\ a\ description\ of\ class\ Controller\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cityFile\ siteFile
+comment2.target=void\ run(java.lang.String,\ java.lang.String)
+comment3.params=graph
+comment3.target=void\ display(DirectedGraph)
+comment3.text=display\ sites\ and\ hotels\ in\ the\ graph\ so\ that\ users\ can\ choose\ their\ favorite\ starting\ point\ and\ desired\ places
+comment4.params=graph
+comment4.target=void\ createTour(DirectedGraph)
+comment4.text=\ \n\ Generate\ tour\ itinerary\ from\ user\ inputs.\ \n
+comment5.params=cityFile\ siteFile
+comment5.target=DirectedGraph\ createMap(java.lang.String,\ java.lang.String)
+comment5.text=\n\ Read\ input\ files\ to\ create\ a\ map\ of\ the\ city\ with\ sites\ and\ hotels\n
+numComments=6

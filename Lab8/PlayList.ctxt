@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlayList
+comment1.params=
+comment1.target=PlayList()
+comment2.params=filename
+comment2.target=void\ addSong(java.lang.String)
+comment2.text=read\ input\ file\ to\ add\ songs
+comment3.params=outf
+comment3.target=void\ writePlayList(java.lang.String)
+comment3.text=write\ songs\ to\ a\ file\ in\ sorted\ order
+comment4.params=
+comment4.target=java.lang.String[]\ toArrayOfArtist()
+comment4.text=Along\ with\ the\ toArrayOfArtistR()\ method,\ return\ an\ array\ of\ songs'\ artists\ in\ the\ same\ order\ as\ the\ songs
+comment5.params=
+comment5.target=java.lang.String[]\ toArrayOfTitle()
+comment5.text=Along\ with\ the\ toArrayOfTitleR()\ method,\ return\ an\ array\ of\ songs'\ titles\ in\ the\ same\ order\ as\ the\ songs
+comment6.params=node
+comment6.target=java.util.ArrayList\ toArrayOfArtistR(BinaryNode)
+comment7.params=node
+comment7.target=java.util.ArrayList\ toArrayOfTitleR(BinaryNode)
+numComments=8

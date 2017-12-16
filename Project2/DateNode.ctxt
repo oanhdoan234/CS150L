@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DateNode
+comment0.text=\n\ Write\ a\ description\ of\ class\ DateNode\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=d
+comment1.target=DateNode(java.util.Date)
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=add\ an\ event\ to\ the\ node\ if\ date\ of\ event\ is\ equal\ to\ date\ of\ node.\ Add\ if\ the\ event\ is\ not\ yet\ in\ the\ node
+comment3.params=date
+comment3.target=java.util.ArrayList\ findEventByADate(java.util.Date)
+comment3.text=find\ event\ on\ a\ particular\ date
+comment4.params=start\ end
+comment4.target=java.util.ArrayList\ findEventsInRange(java.util.Date,\ java.util.Date)
+comment4.text=\ find\ events\ given\ 2\ dates.\ Events\ to\ be\ found\ must\ lie\ within\ this\ given\ range\ of\ dates\ or\ have\ start\ date\ before\ given\ start\ date\ and\ \n\ end\ date\ before\ given\ end\ date.\n
+numComments=5

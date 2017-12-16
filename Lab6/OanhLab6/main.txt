@@ -1,0 +1,33 @@
+public static void main(String args[]){
+        BinarySearchTree tree1 = new BinarySearchTree(null);                                        //empty tree
+        BinarySearchTree tree2 = new BinarySearchTree(new BinaryNode<Double>(100.0));               //has one node
+        BinarySearchTree tree3 = new BinarySearchTree(new BinaryNode<Double>(100.0));               //has 3 nodes (root and 2 nonempty children)  
+        BinarySearchTree tree4 = new BinarySearchTree(new BinaryNode<Double>(100.0));               //has more than 3 nodes
+        
+        Double[] nodes = {99.0,105.0,23.0,126.0,113.0,117.0,15.0,46.0,85.0,345.0,102.0};            //add nodes to the trees
+        for (int i = 0; i<nodes.length; i++){
+            if(i < 2) tree3.insert(nodes[i]);
+            tree4.insert(nodes[i]);
+        }
+        
+        ArrayList<BinarySearchTree> trees = new ArrayList<BinarySearchTree>();                      //a collection of trees
+        trees.add(tree1);
+        trees.add(tree2);
+        trees.add(tree3);
+        trees.add(tree4);
+        for (int i = 0; i < trees.size(); i++){                                                     //traverse 
+            System.out.println("Traversal of tree" + (int)(i+1));
+            
+            System.out.print("Preorder: ");                                                         //preorder
+            trees.get(i).printPreOrder();
+            System.out.print("\n");
+            
+            System.out.print("Postorder: ");                                                       //postorder     
+            trees.get(i).printPostOrder();
+            System.out.print("\n");
+            
+            System.out.print("Inorder: ");                                                          //inorder
+            trees.get(i).printInOrder();
+            System.out.println("\n");
+        }
+    }

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=e
+comment1.target=boolean\ insert(java.lang.Object)
+comment10.params=
+comment10.target=void\ empty()
+comment11.params=
+comment11.target=boolean\ isEmpty()
+comment2.params=e
+comment2.target=boolean\ contains(java.lang.Object)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=e
+comment4.target=boolean\ remove(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ findMax()
+comment6.params=
+comment6.target=java.lang.Object\ findMin()
+comment7.params=
+comment7.target=void\ printPreOrder()
+comment8.params=
+comment8.target=void\ printPostOrder()
+comment9.params=
+comment9.target=void\ printInOrder()
+numComments=12

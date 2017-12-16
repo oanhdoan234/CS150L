@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment1.params=e
+comment1.target=BinarySearchTree(java.lang.Comparable)
+comment10.params=rt
+comment10.target=java.lang.Comparable\ findMinR(BinaryNode)
+comment11.params=rt
+comment11.target=java.lang.Comparable\ findMaxR(BinaryNode)
+comment2.params=
+comment2.target=BinaryNode\ getRoot()
+comment3.params=
+comment3.target=java.lang.Comparable\ findMax()
+comment4.params=
+comment4.target=java.lang.Comparable\ findMin()
+comment5.params=e
+comment5.target=boolean\ contains(java.lang.Comparable)
+comment6.params=e
+comment6.target=boolean\ insert(java.lang.Comparable)
+comment7.params=bnode
+comment7.target=boolean\ isLeaf(BinaryNode)
+comment8.params=e
+comment8.target=boolean\ remove(java.lang.Comparable)
+comment9.params=parent\ rt\ e
+comment9.target=boolean\ removeR(BinaryNode,\ BinaryNode,\ java.lang.Comparable)
+numComments=12

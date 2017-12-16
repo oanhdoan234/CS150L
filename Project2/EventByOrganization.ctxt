@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EventByOrganization
+comment1.params=
+comment1.target=EventByOrganization()
+comment2.params=e
+comment2.target=void\ add(Event)
+comment2.text=Add\ an\ event
+comment3.params=name
+comment3.target=void\ remove(java.lang.String)
+comment3.text=Remove\ an\ event
+comment4.params=organization
+comment4.target=java.util.ArrayList\ find(java.lang.String)
+comment4.text=Find\ an\ event\ by\ its\ organizer
+comment5.params=
+comment5.target=int\ size()
+numComments=6

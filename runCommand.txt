@@ -1,0 +1,12 @@
+foo.txt
+	java prog 5 10 
+	java prog 4 20
+	java prog 15 17
+	java prog 10 12
+
+=> Run program 4 times using these inputs in terminal:
+	sh foo.txt
+
+
+Read commands from a text file and produce output:
+java prog ... < command.txt >output.txt

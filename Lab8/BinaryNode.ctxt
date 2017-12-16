@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BinaryNode
+comment1.params=e
+comment1.target=BinaryNode(java.lang.Object)
+comment2.params=e
+comment2.target=void\ setValue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=n
+comment4.target=void\ setLeftChild(BinaryNode)
+comment5.params=n
+comment5.target=void\ setRightChild(BinaryNode)
+comment6.params=
+comment6.target=BinaryNode\ getRightChild()
+comment7.params=
+comment7.target=BinaryNode\ getLeftChild()
+numComments=8
