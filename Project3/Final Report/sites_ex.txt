@@ -1,0 +1,6 @@
+10 hotel
+21 site 10
+15 site 5
+20 site 15
+18 site 4
+19 site 12

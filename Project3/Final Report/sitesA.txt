@@ -1,0 +1,22 @@
+130 hotel
+112 tourist 30
+80 hotel
+181 hotel
+179 tourist 41
+9 hotel
+46 hotel
+72 tourist 35
+187 hotel
+142 hotel
+85 hotel
+177 tourist 20
+103 tourist 25
+100 tourist 50
+68 tourist 16
+140 tourist 12
+88 hotel
+26 tourist 20
+157 tourist 10
+150 tourist 23
+165 tourist 19
+190 tourist 30
